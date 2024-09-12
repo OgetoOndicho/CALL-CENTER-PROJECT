@@ -4,9 +4,9 @@ Data Analysis for an American Call Center for the month of October, 2020.
 ## PROJECT OVERVIEW
 This is a data analytics project for an American based Call Center. The project's main objective include:
 
-  . To determine the distribution of calls across call centers in America.
-  . To investigate the type of sentiment addressed at the Call Center.
-  . To investigate the most preferred communication channel used to access the call center.
+  - To determine the distribution of calls across call centers in America.
+  - To investigate the type of sentiment addressed at the Call Center.
+  -  To investigate the most preferred communication channel used to access the call center.
   
 
 ## DATA SOURCES
