@@ -10,3 +10,6 @@ c. To investigate the most preferred communication channel used to access the ca
 ## DATA SOURCES
 Call center data was sourced from [https://www.kaggle.com]. Data was in an original .csv format.
 
+### MORE REFERENCES
+This project contains the original dataset, pivot tables and visualizations for further reference.
+
